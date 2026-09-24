@@ -1,0 +1,4 @@
+/* App.css — Reset dan utility minimal */
+* {
+  box-sizing: border-box;
+}
